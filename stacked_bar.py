@@ -25,7 +25,7 @@ plt.rcParams['figure.figsize'] = (15, 5)
 
 # change dir to jupyter project folder
 import os
-os.chdir(expandvars('$HOME/gitwork/jupyter-notebooks'))
+os.chdir(expandvars('$HOME/gitwork/github/jupyter-notebooks'))
 # -
 
 df = pd.read_csv('./data/fnbp2.csv', encoding='latin1', sep=';', 
