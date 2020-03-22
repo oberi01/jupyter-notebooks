@@ -90,3 +90,4 @@ ENV/
 
 # idea and jupyter notebook artefacts
 /.idea/
+/data/Weather.csv
